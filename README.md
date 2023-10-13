@@ -16,10 +16,8 @@ Data Source:
 - Distances are symmetric, ensuring the TSP graph is undirected.
 - Diagonal entries are zero, indicating no self-loops.
 - The matrix is created ensuring a certain level of variance in distances to produce a meaningful TSP instance.
-
-Estimated Timings:
-
-- Based on algorithm complexities
+  
+Timings:
 - For n = 5.
 
 Algorithm            | Estimated Time (s) | Largest n in 30 min 
