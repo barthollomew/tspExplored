@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://i.imgur.com/KsEZNGl.mp4" alt="TSP Graph">
+  <a href="https://imgur.com/KsEZNGl">
+    <img src="https://i.imgur.com/KsEZNGl.png" alt="TSP Graph" width="50%">
+  </a>
 </p>
 
 Welcome. This educational project focuses on solving the fascinating Traveling Salesman Problem (TSP) using various algorithmic approaches in C++.
