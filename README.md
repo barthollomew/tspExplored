@@ -1,6 +1,6 @@
-# 🌐 COSC Algorithms: Exploring the World of TSP 🌍
+# Exploring TSP using COSC Algorithms and C++ 🌍
 
-Welcome to my repository showcasing my skills and passion for data structures and algorithms! This project focuses on solving the fascinating Traveling Salesman Problem (TSP) using various algorithmic approaches. 🚀
+Welcome to my repository showcasing my skills and passion for data structures and algorithms! This project focuses on solving the fascinating Traveling Salesman Problem (TSP) using various algorithmic approaches. 
 
 ## 📊 Input Data
 
