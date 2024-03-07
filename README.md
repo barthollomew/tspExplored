@@ -60,4 +60,4 @@ Through this project, I demonstrate my proficiency in:
 - Comparing and evaluating different algorithmic approaches. 
 - Documenting and presenting technical concepts clearly. 
 
-I am passionate about leveraging algorithms and data structures to solve real-world challenges efficiently. This repository reflects my ability to think critically, code effectively, and communicate technical ideas. 💡
+I am passionate about leveraging algorithms and data structures to solve real-world challenges efficiently. This repository reflects my ability to think critically, code effectively, and communicate technical ideas. 
