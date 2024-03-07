@@ -1,6 +1,6 @@
 <p align="center">
-  <a href="https://imgur.com/KsEZNGl">
-    <img src="https://i.imgur.com/KsEZNGl.png" alt="TSP Graph" width="50%">
+  <a href="https://imgur.com/baP6H">
+    <img src="https://i.imgur.com/8JqVSVU.png" alt="TSP Graph" width="50%">
   </a>
 </p>
 
