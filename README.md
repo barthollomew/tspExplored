@@ -1,4 +1,8 @@
-Welcome to my repository showcasing my skills for data structures and algorithms. This educational project focuses on solving the fascinating Traveling Salesman Problem (TSP) using various algorithmic approaches in C++.
+<p align="center">
+  <img src="https://imgur.com/gallery/baP6H" alt="TSP Graph">
+</p>
+
+Welcome. This educational project focuses on solving the fascinating Traveling Salesman Problem (TSP) using various algorithmic approaches in C++.
 
 ## 🚀 Algorithms
 
