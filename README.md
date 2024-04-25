@@ -50,14 +50,12 @@ To showcase the performance of each algorithm, I have measured the estimated exe
 
 As evident from the timings, the brute force approach becomes infeasible for larger instances, while the greedy and simplified Christofides-like algorithms scale better.
 
-## 🌟 Skills Highlighted
+## Skills Highlighted
 
-Through this project, I demonstrate my proficiency in:
+Uploading this to GitHub aims to demonstrate my ability in:
 
 - Implementing advanced algorithms and data structures in C++. 
 - Analyzing time complexity and scalability of algorithms. 
 - Solving complex optimization problems like the TSP. 
 - Comparing and evaluating different algorithmic approaches. 
 - Documenting and presenting technical concepts clearly. 
-
-I am passionate about leveraging algorithms and data structures to solve real-world challenges efficiently. This repository reflects my ability to think critically, code effectively, and communicate technical ideas. 
