@@ -1,4 +1,4 @@
-Welcome. This educational project focuses on solving the fascinating Traveling Salesman Problem (TSP) using various algorithmic approaches in C++ as part of Bachelor of Computer Science coursework.
+Welcome. This educational project focuses on solving the fascinating Traveling Salesman Problem (TSP) using various algorithmic approaches in C++ as part of my Bachelor of Computer Science coursework.
 
 ## 🚀 Algorithms
 
