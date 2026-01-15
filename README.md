@@ -38,7 +38,7 @@ The TSP instance is represented by a distance matrix (`dist`) for a complete gra
 - Diagonal entries are zero, indicating no self-loops.
 - The matrix is carefully crafted to introduce variance in distances, adding complexity to the problem.
 
-## ⏱Timings
+## Timings
 
 To showcase the performance of each algorithm, I have measured the estimated execution time for the given TSP instance with 5 vertices:
 
